@@ -1,0 +1,16 @@
+{
+  "name": "backend..",
+  "version": "1.0.0",
+  "description": "a project that deals with skills development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "end"
+  ],
+  "author": "Mansoon Patel",
+  "license": "ISC"
+}
