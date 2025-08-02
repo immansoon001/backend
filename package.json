@@ -2,9 +2,11 @@
   "name": "backend..",
   "version": "1.0.0",
   "description": "a project that deals with skills development",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev":"nodemon src/index.js"
+    
   },
   "keywords": [
     "javascript",
@@ -12,5 +14,8 @@
     "end"
   ],
   "author": "Mansoon Patel",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
